@@ -28,7 +28,7 @@
             "MOIREI\\GoogleMerchantApi\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
